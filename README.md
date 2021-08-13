@@ -1,7 +1,8 @@
-# Useful_Scripts
+#### Useful_Scripts
+####Here stores some useful scripts
 
 #get_gene_bam.sh
-If you want to check some genes' mapping in IGV while loading all the bam files large and slow, you can run the shell script get_gene_bam.sh.
+If you want to check some genes' mapping in IGV while loading all the bam files large and slow, you can run the shell script get_gene_bam.sh
 Usage: sh get_gene_bam.sh gene_id length_of_region_around_the_gene
 Examples: 
 sh get_gene_bam.sh AT1G11265 
