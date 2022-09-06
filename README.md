@@ -12,4 +12,7 @@ If you want to check some genes' mapping in IGV while loading all the bam files 
 #### sh get_gene_bam.sh my_file 10000
 
 By simply running a command line, you can get the smaller files which can easily be loaded into IGV.
-If you want multiple gene' mapping at once, make a file that each line has one gene id.
+If you want multiple gene' mapping at once, make a file that each line has one gene id.### 
+
+### geom-boxplot.r
+Remove outliers in ggplot2
